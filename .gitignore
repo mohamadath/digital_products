@@ -1,3 +1,6 @@
 .idea/
 venv/
 desktop/
+**/__pycache__/
+**/.pyc
+media/
